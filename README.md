@@ -1,7 +1,5 @@
 # CredPal
 
-A new Flutter project.
-c
 ### Screenshots 🌈
 
 <p>
