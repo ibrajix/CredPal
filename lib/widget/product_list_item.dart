@@ -62,6 +62,7 @@ class ProductListItem extends StatelessWidget {
                   style: TextStyle(
                       fontSize: 11,
                       color: AppColors.lightGrey,
+                      decoration: TextDecoration.lineThrough,
                       fontWeight: FontWeight.bold),
                 ),
               ],
