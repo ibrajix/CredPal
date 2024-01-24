@@ -1,16 +1,14 @@
-# cred_pal
+# CredPal
 
 A new Flutter project.
+c
+### Screenshots 🌈
 
-## Getting Started
+<p>
+    <img src="https://github.com/ibrajix/tuli/assets/39574228/8809c80c-ba87-4127-8d89-c2055763d358" width="200px" hspace="10"/>
+    <img src="https://github.com/ibrajix/tuli/assets/39574228/e3c50f32-1ff7-4b1c-a9b9-1903fd3e8f73" width="200px" hspace="10"/>
+</p>
 
-This project is a starting point for a Flutter application.
+### Download 📱
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [APK](https://github.com/)
