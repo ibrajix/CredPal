@@ -9,4 +9,4 @@
 
 ### Download 📱
 
-- [APK](https://github.com/)
+- [APK](https://github.com/ibrajix/CredPal/releases/download/v1.0/app-release-v1.apk/)
